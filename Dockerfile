@@ -1,4 +1,4 @@
-FROM joshhsoj1902/docker-ogpagent:v0.0.6
+FROM joshhsoj1902/docker-ogpagent:0.1.0
 
 MAINTAINER joshhsoj1902
 
